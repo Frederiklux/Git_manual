@@ -1,0 +1,10 @@
+### Adding files manually
+You commit changes to a Git repository in two steps:
+
+Add one or more files to the staging area.
+Commit everything in the staging area.
+To add a file to the staging area, use 'git add filename'.
+
+### Comparing file state
+To compare the state of your files with those in the staging area, you can use git diff -r HEAD. 
+The -r flag means "compare to a particular revision", and HEAD is a shortcut meaning "the most recent commit".
