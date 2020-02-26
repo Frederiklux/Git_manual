@@ -1,0 +1,9 @@
+### git log
+
+The command git log is used to view the log of the project's history. Log entries are shown most recent first, and look like this:
+
+commit 0430705487381195993bac9c21512ccfb511056d
+Author: Rep Loop <repl@datacamp.com>
+Date:   Wed Sep 20 13:42:26 2017 +0000
+
+    Added year to report title.
