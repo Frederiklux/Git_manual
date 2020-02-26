@@ -1,0 +1,8 @@
+## git status
+git status fortæller dig hvilke filer, der er blevet ændret siden sidste save.
+
+
+## git diff
+git diff giver dig forskellen på filerne i "Staging Area" og de endeligt pushede filer i .git directoriet.
+
+##
